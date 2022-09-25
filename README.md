@@ -50,8 +50,6 @@ O conceito do jogo, personagens e nomes vieram de ideias completamente aleatóri
 -   [ ] Interface + Animações
 -   [ ] Lógica do jogo
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <p align="right">(<a href="#readme-top">Voltar para o topo</a>)</p>
 
 [raylib-url]: https://www.raylib.com/index.html
