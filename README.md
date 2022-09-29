@@ -16,7 +16,7 @@
 
 O conceito do jogo, personagens e nomes vieram de ideias completamente aleatórias.
 
-<img src="assets/images/demo.gif" alt="Demo" width="100%" height="600">
+<img src="assets/images/demo.gif" alt="Demo" width="80%" height="600">
 
 ### Requisitos
 
@@ -48,9 +48,9 @@ O conceito do jogo, personagens e nomes vieram de ideias completamente aleatóri
 
 ### Roadmap
 
--   [ ] Base de dados (txt)
--   [ ] Interface + Animações
--   [ ] Lógica do jogo
+-   [x] Base de dados (txt)
+-   [x] Interface + Animações
+-   [x] Lógica do jogo
 
 <p align="right">(<a href="#readme-top">Voltar para o topo</a>)</p>
 
