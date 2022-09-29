@@ -1,7 +1,7 @@
 CXX         := gcc
-CXX_FLAGS   := 
+CXX_FLAGS   := -s -Wall -std=c99
 
-LIBRARIES   := -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
+LIBRARIES   := -lraylib -lm -lpthread -ldl -lrt -lX11
 EXECUTABLE  := app
 
 all: run
