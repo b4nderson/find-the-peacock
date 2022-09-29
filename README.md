@@ -16,7 +16,7 @@
 
 O conceito do jogo, personagens e nomes vieram de ideias completamente aleatórias.
 
-<img src="assets/images/demo.gif" alt="Demo" width="100%" height="400">
+<img src="assets/images/demo.gif" alt="Demo" width="100%" height="600">
 
 ### Requisitos
 
