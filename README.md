@@ -16,7 +16,11 @@
 
 O conceito do jogo, personagens e nomes vieram de ideias completamente aleatórias.
 
-<img src="assets/images/demo.gif" alt="Demo" width="80%" height="600">
+<div align="center">
+  <a href="https://github.com/nonra/find-the-peacock">
+    <img src="assets/images/demo.gif" alt="Demo" width="80%" height="600">
+  </a>
+</div>
 
 ### Requisitos
 
