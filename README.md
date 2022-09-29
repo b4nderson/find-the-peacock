@@ -16,6 +16,8 @@
 
 O conceito do jogo, personagens e nomes vieram de ideias completamente aleatórias.
 
+<img src="assets/images/demo.gif" alt="Demo" width="100%" height="400">
+
 ### Requisitos
 
 -   [![Raylib][raylib-logo]][raylib-url]
@@ -56,3 +58,4 @@ O conceito do jogo, personagens e nomes vieram de ideias completamente aleatóri
 [raylib-logo]: https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white
 [gcc-url]: https://gcc.gnu.org/
 [gcc-logo]: https://img.shields.io/badge/gcc-000000?style=for-the-badge&logo=raylib&logoColor=white
+[demo]: assets/images/demo.gif
